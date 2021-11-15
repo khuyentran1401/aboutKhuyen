@@ -4,7 +4,7 @@ Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data scie
 
  [![Daily Data Science Tips](https://img.shields.io/badge/Data%20Science%20Simplified-Daily%20Data%20Science%20Tips-green?logo=wordpress)](https://mathdatasimplified.com/)  [![View My Book](https://img.shields.io/badge/Book-View%20My%20Book-yellow?logo=gitbook)](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) 
 
-![image](images/skills (3).png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/skills%20(3).png?raw=true)
 
 
 
@@ -12,11 +12,11 @@ Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data scie
 
 ## My Experience
 
-![image](images/skills (8).png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/skills%20(8).png?raw=true)
 
 ### My Skills
 
-![image](images/skills (2).png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/skills%20(2).png?raw=true)
 
 ---
 
@@ -33,7 +33,7 @@ Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data scie
 
 ### Statistics of my articles
 
-![image](/home/khuyen/Pictures/Screenshot from 2021-11-14 11-23-15.png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/Screenshot%20from%202021-11-14%2011-23-15.png)
 
 ---
 
@@ -65,8 +65,8 @@ Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data scie
 
 I'm looking for a data science or machine learning engineer position in Bay Area after graduating in May 2022. 
 
-![image](images/skills (6).png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/skills%20(6).png?raw=true)
 
 Please let me know if your company is looking for somebody in this position that fits my set of skills.
 
-![image](images/skills (7).png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/skills%20(7).png?raw=true)
