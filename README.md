@@ -33,7 +33,7 @@ Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data scie
 
 ### Statistics of my articles
 
-![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/Screenshot%20from%202021-11-14%2011-23-15.png)
+![image](https://github.com/khuyentran1401/aboutKhuyen/blob/master/images/Screenshot%20from%202021-11-14%2011-23-15.png?raw=true)
 
 ---
 
