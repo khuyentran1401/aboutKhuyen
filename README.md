@@ -50,12 +50,8 @@ Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data scie
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=awesome-Python-data-science-books)](https://github.com/khuyentran1401/awesome-Python-data-science-books)
 
 ### Packages I created
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=python_snippet)](https://github.com/khuyentran1401/python_snippet)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=same-stats-different-graphs)](https://github.com/khuyentran1401/same-stats-different-graphs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=python_snippet)](https://github.com/khuyentran1401/python_snippet)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=same-stats-different-graphs)](https://github.com/khuyentran1401/same-stats-different-graphs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=strip_interactive)](https://github.com/khuyentran1401/strip_interactive)
 
