@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Khuyen Tran. I major in statistics with an accumulative major GPA of 4.0. I love playing with data science and Python tools. So far, I have written over [130 articles](https://github.com/khuyentran1401/Data-science) and over [400 tips on the topics](https://mathdatasimplified.com/) of Python and data science. I'm also the author of the book [Efficient Python Tricks and Tools for Data Scientists.](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+Hello, I'm Khuyen Tran. I major in statistics, but I love playing with data science and Python tools. So far, I have written over [130 articles](https://github.com/khuyentran1401/Data-science) and over [400 tips on the topics](https://mathdatasimplified.com/) of Python and data science. I'm also the author of the book [Efficient Python Tricks and Tools for Data Scientists.](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
  [![Daily Data Science Tips](https://img.shields.io/badge/Data%20Science%20Simplified-Daily%20Data%20Science%20Tips-green?logo=wordpress)](https://mathdatasimplified.com/)  [![View My Book](https://img.shields.io/badge/Book-View%20My%20Book-yellow?logo=gitbook)](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html) 
 
@@ -47,7 +47,7 @@ Hello, I'm Khuyen Tran. I major in statistics with an accumulative major GPA of 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=Data-science)](https://github.com/khuyentran1401/Data-science)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=awesome-Python-data-science-books)](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=awesome-Python-data-science-books)](https://github.com/khuyentran1401/awesome-Python-data-science-books)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=Efficient_Python_tricks_and_tools_for_data_scientists)](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)
 
 ### Packages I created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
